@@ -101,7 +101,7 @@ Di langkah ini kita akan mencoba membuat model dan migration dengan satu artisan
 
 php artisan make:model Post -m
 
-	Kita bisa lihat ada dua file yang berhasil digenerate menggunakan command di atas, yang pertama adalah file model app/Models/Post.php dan yang kedua file migration database/migrations/2021_08_18_043743_create_posts_table.php. Sebagai catatan nama file migration itu disesuaikan dengan tanggal pada saat file migration itu dibuat.
+Kita bisa lihat ada dua file yang berhasil digenerate menggunakan command di atas, yang pertama adalah file model app/Models/Post.php dan yang kedua file migration database/migrations/2021_08_18_043743_create_posts_table.php. Sebagai catatan nama file migration itu disesuaikan dengan tanggal pada saat file migration itu dibuat.
 
 7. Membuat BackEnd
 
